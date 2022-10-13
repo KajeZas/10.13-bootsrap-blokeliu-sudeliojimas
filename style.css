@@ -1,0 +1,6 @@
+.container{
+    height: 100vh;
+}
+.custum_h{
+    height: calc(100% /3);
+}
